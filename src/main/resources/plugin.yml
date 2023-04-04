@@ -1,0 +1,6 @@
+name: XPHealth
+version: '${version}'
+main: top.apip.xphealth.XPHealth
+api-version: 1.19
+commands:
+  xphealth:
